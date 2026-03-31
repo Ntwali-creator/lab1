@@ -21,6 +21,10 @@ organizer.sh  :                used for archiving
 
 README.md :                used in the project documentation
 
+archives
+
+cosmos.PNG for  output of python script to show a .csv data
+
 How to Run
 
 
