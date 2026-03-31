@@ -34,6 +34,15 @@ You have to 1st clone the repository,
 
  After running the Python, write "grades.csv"
 
+ output : SCREENSHOOT
+
+(cosmos.PNG)
+
+---
+
+## 👨‍💻 Author
+**Ntwali James**
+
 to the Run Bash Script
 
 chmod +x organizer.sh
