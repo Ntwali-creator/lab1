@@ -24,15 +24,18 @@ README.md :                used in the project documentation
 How to Run
 
 
-You have to 1st Run the Python Program
+You have to 1st clone the repository,
 
-1 . python grade-evaluator.py
+git clone https://github.com/Ntwali-creator/lab1.git
+cd lab1
 
-Grades.csv
+ python grade-evaluator.py
+
+ After running the Python, write "grades.csv"
 
 Run Bash Script
 
-2 . chmod +x organizer.sh
+chmod +x organizer.sh
 
-3 .    ./organizer.sh
+./organizer.sh
 
