@@ -34,14 +34,9 @@ You have to 1st clone the repository,
 
  After running the Python, write "grades.csv"
 
- output : SCREENSHOOT
+## 📸 Output Screenshot
 
-(cosmos.PNG)
-
----
-
-## 👨‍💻 Author
-**Ntwali James**
+<img width="547" height="253" alt="cosmos" src="https://github.com/user-attachments/assets/f348e5bf-f544-4b47-806d-ef81b56dbaed" />
 
 to the Run Bash Script
 
