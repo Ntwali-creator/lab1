@@ -26,14 +26,15 @@ How to Run
 
 You have to 1st clone the repository,
 
-git clone https://github.com/Ntwali-creator/lab1.git
-cd lab1
+1. git clone https://github.com/Ntwali-creator/lab1.git
 
- python grade-evaluator.py
+2. cd lab1
+
+ 3. python grade-evaluator.py
 
  After running the Python, write "grades.csv"
 
-Run Bash Script
+to the Run Bash Script
 
 chmod +x organizer.sh
 
